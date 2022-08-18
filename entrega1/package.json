@@ -1,0 +1,16 @@
+{
+  "name": "entrega1",
+  "version": "1.0.0",
+  "description": "Es mi primer proyecto en node",
+  "main": "index.js",
+  "scripts": {
+    "saludar": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "JS"
+  ],
+  "author": "David Romero Salinas",
+  "license": "ISC"
+}
